@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow:
+
+user-agent: *
+Disallow:
+
+sitemap: https://ytf1p8uy79xpvrvcwa8d9a.on.drv.tw/Al-Missbah/sitemap.xml
+sitemap: https://ytf1p8uy79xpvrvcwa8d9a.on.drv.tw/Al-Missbah/sitemap-images.xml
